@@ -12,11 +12,9 @@
 </ul>
 
 <h2>📲 Screenshots</h2>
-<!-- Add image tags with links to screenshots -->
-<p>
+
   <img src="screenshot1.jpeg" width="250" alt="Screenshot 1">
   <img src="screenshot2.jpeg" width="250" alt="Screenshot 2">
-</p>
 
 <h2>📥 Installation Guide</h2>
 <p>This guide will help you set up <strong>MoodSync</strong> on your local machine.</p>
