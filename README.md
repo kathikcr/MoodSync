@@ -12,11 +12,12 @@
 </ul>
 
 <h2>📲 Screenshots</h2>
-
+<p>
   <img src="assets/screenshot1.jpeg" width="250" alt="Screenshot 1">
   <img src="assets/screenshot2.jpeg" width="250" alt="Screenshot 2">
   <img src="assets/screenshot3.jpeg" width="250" alt="Screenshot 3">
   <img src="assets/screenshot4.jpeg" width="250" alt="Screenshot 4">
+</p>
 
 <h2>📥 Installation Guide</h2>
 <p>This guide will help you set up <strong>MoodSync</strong> on your local machine.</p>
