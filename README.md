@@ -13,7 +13,7 @@
 
 <h2>📲 Screenshots</h2>
 
-  <img src="screenshot1.jpeg" width="250" alt="Screenshot 1">
+  <img src="assets/screenshot1.jpeg" width="250" alt="Screenshot 1">
   <img src="screenshot2.jpeg" width="250" alt="Screenshot 2">
 
 <h2>📥 Installation Guide</h2>
